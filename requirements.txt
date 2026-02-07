@@ -1,0 +1,8 @@
+python-dotenv
+google-cloud-aiplatform
+langchain-google-vertexai
+neo4j
+langchain-community
+langchain-core
+streamlit
+google-genai
