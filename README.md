@@ -7,6 +7,12 @@ A GraphRAG (Graph Retrieval-Augmented Generation) application that solves crime 
 ![Detective Conan](https://img.shields.io/badge/Detective-Conan-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-green?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-red?style=for-the-badge)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-Gemini-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+<p align="center">
+  <img src="https://tenor.com/buoxb.gif" alt="Detective Conan" width="300"/>
+</p>
 
 ---
 
