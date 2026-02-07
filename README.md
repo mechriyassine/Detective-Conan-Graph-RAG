@@ -11,7 +11,7 @@ A GraphRAG (Graph Retrieval-Augmented Generation) application that solves crime 
 ![Neo4j](https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 <p align="center">
-  <img src="https://tenor.com/buoxb.gif" alt="Detective Conan" width="300"/>
+  <img src="https://media.tenor.com/XSbD_RbSKfEAAAAd/detective-conan-conan.gif" alt="Detective Conan" width="300"/>
 </p>
 
 ---
